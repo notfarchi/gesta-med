@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Grupo8GestaMed">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gestamed-final-main/ProjetoGestaMed/dist/Grupo8GestaMed.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
