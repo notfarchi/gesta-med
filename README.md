@@ -21,7 +21,7 @@ Este projeto foi desenvolvido como um trabalho prático na disciplina de Orienta
 ## Tecnologias Utilizadas
 - **Linguagem de Programação:** Java. 
 
-- **Conceitos de Programação Orientada a Objetos:** Classes, Encapsulamento, Herança, Polimorfismo.
+- **Conceitos de Programação Orientada a Objetos:** Classes Abstratas, Encapsulamento, Herança, Polimorfismo.
 
 - **Estruturas de Dados:** ArrayList, HashMap. 
 
