@@ -1,38 +1,38 @@
 # GestaMED
 
-## Projeto de Gerenciamento de Clínica Médica em Java
-Este projeto foi desenvolvido como um trabalho prático na disciplina de Orientação à Objetos da faculdade, com foco no gerenciamento de uma Clínica Médica. Implementado em Java, o sistema utiliza conceitos avançados de Programação Orientada a Objetos (POO) para oferecer um ambiente virtual para cadastro de pacientes, médicos e medicamentos, destacando-se pela funcionalidade de consultas em tempo real que promove a interação entre pacientes e médicos.
+## Medical Clinic Management Project in Java
+This project was developed as a practical assignment for the Object-Oriented Programming course, focusing on the management of a Medical Clinic. Implemented in Java, the system aims to provide an integrated and object-oriented approach for efficiently handling patients, doctors, medications, and consultations.
 
-## Disciplina e Alunos
-- **Disciplina:** GSI015 - Programação Orientada a Objetos 1.
+## Course and Students
+- **Course:** GSI015 - Object-Oriented Programming 1.
 
-- **Alunos:** Anna Clara Peres, João Victor Farchi, Nicolas Mendes e Pedro Miguel de Paula.
+- **Students:** Anna Clara Peres, João Victor Farchi, Nicolas Mendes, and Pedro Miguel de Paula.
 
-## Principais Funcionalidades
-1. **Cadastro de Pacientes, Médicos e Medicamentos:**
-- O sistema permite o cadastro completo de informações relacionadas a pacientes, médicos e medicamentos, seguindo uma abordagem orientada a objetos com classes e encapsulamento para garantir a integridade dos dados.
+## Main Features
+1. **Registration of Patients, Doctors, and Medications:**
+   - The system allows for complete registration of information related to patients, doctors, and medications, following an object-oriented approach with classes and encapsulation to ensure data integrity.
 
-2. **Consultas em Tempo Real:**
-- Uma funcionalidade chave do sistema é a capacidade de realizar consultas em tempo real, permitindo a interação entre paciente e médico.
+2. **Real-Time Consultations:**
+   - A key feature of the system is the ability to conduct real-time consultations, enabling interaction between patients and doctors.
 
-3. **Segurança na Criação da Secretária:**
-- Para criar a secretária, é necessário inserir uma senha de acesso específica do sistema. A senha de acesso é: **_senhaboot123_**. Essa medida visa garantir a segurança e controle de acesso ao sistema.
+3. **Security in Secretary Creation:**
+   - To create a secretary profile, a specific system access password is required. The access password is: **_senhaboot123_**. This measure aims to ensure security and access control within the system.
 
-## Tecnologias Utilizadas
-- **Linguagem de Programação:** Java. 
+## Technologies Used
+- **Programming Language:** Java
 
-- **Conceitos de Programação Orientada a Objetos:** Classes Abstratas, Encapsulamento, Herança, Polimorfismo.
+- **Object-Oriented Programming Concepts:** Abstract Classes, Encapsulation, Inheritance, Polymorphism
 
-- **Estruturas de Dados:** ArrayList, HashMap. 
+- **Data Structures:** ArrayList, HashMap
 
-- **Manipulação de Datas:** Date, Calendar, SimpleDateFormat. 
+- **Date Handling:** Date, Calendar, SimpleDateFormat
 
-## Como Utilizar
-1. Clone o repositório para sua máquina local.
+## How to Use
+1. Clone the repository to your local machine.
 
-2. Compile o código-fonte utilizando um ambiente Java compatível.
+2. Compile the source code using a compatible Java environment.
 
-3. Execute o programa e siga as instruções para utilizar as diferentes funcionalidades disponíveis, como cadastro de pacientes, médicos e medicamentos, bem como a realização de consultas em tempo real. 
+3. Run the program and follow the instructions to use the available features, such as registering patients, doctors, and medications, as well as performing real-time consultations.
 
-## Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs ou novas funcionalidades para o projeto.
+## Contributions
+Contributions are welcome! Feel free to submit pull requests with improvements, bug fixes, or new features for the project.
